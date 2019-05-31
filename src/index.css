@@ -1,0 +1,14 @@
+.ingred-item {
+    display: flex;
+    align-items: center
+}
+
+input[type=checkbox] {
+    margin-left: 20px
+}
+.container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-around
+}
+
