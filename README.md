@@ -3,13 +3,13 @@
 
 This is the last project we did (in April 2019) after learning a new subject (React) during our BeCode training. This was a pairing exercice project.  Below, you'll find the instructions that we received (from BeCode) for this project.
 
-# Technoclogies used
+# Technologies used
 
 - React
 
 ## Learning objectives 
 
-!! The purpose of this challenge is to get acquainted with the *state* and re-using *components*.
+The purpose of this challenge is to get acquainted with the *state* and re-using *components*.
 
 Team challenge : `duo`
 
